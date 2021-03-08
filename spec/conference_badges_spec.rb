@@ -75,6 +75,7 @@ TEXT
   end
 
   describe '#assign_rooms' do
+  
 
     # Question 3
 
